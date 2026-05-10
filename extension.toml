@@ -1,0 +1,7 @@
+id = "dark-eye"
+name = "Dark Eye"
+version = "0.0.1"
+schema_version = 1
+authors = ["Shahariar Alif"]
+description = "A vivid theme family designed to reduce eye strain"
+repository = "https://github.com/your-username/dark-eye-theme"
